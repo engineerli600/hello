@@ -1,2 +1,2 @@
 test
-git is good
+git is good too
